@@ -1,25 +1,3 @@
-# Contents
-
-[EntraID [2](#entraid)](#entraid)
-
-[Group [2](#group)](#group)
-
-[Application [2](#application)](#application)
-
-[FortiGate [8](#fortigate)](#fortigate)
-
-[FortiGate Certificate
-[8](#fortigate-certificate)](#fortigate-certificate)
-
-[Remote Certificate [8](#remote-certificate)](#remote-certificate)
-
-[Create Single Sign-on
-[10](#create-single-sign-on)](#create-single-sign-on)
-
-[Create IPSEC VPN [11](#create-ipsec-vpn)](#create-ipsec-vpn)
-
-[VPN Client [16](#vpn-client)](#vpn-client)
-
 # EntraID 
 
 ## Group
@@ -304,3 +282,4 @@ style="width:3.22097in;height:1.68243in" />
 
 <img src="media/image46.png"
 style="width:3.22461in;height:1.44029in" />
+
