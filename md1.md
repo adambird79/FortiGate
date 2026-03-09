@@ -16,8 +16,7 @@ click “+ New Application” and search for “FortiGate” select the
 
 Give the App a name
 
-<img src="media/image2.png"
-style="width:3.75962in;height:3.42747in" />
+<img src="media/image2.png", width:"800" />
 
 Under “Single sign-on” on the left menu, select “SAML”
 
