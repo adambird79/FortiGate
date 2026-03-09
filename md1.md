@@ -12,7 +12,7 @@ Create the Enterprise Application in EntraID, under “Enterpise Apps”
 click “+ New Application” and search for “FortiGate” select the
 “FortiGate SSL VPN”
 
-![image 1](media/image1.png)
+![image 1](./media/image1.png)
 
 Give the App a name
 
@@ -281,5 +281,6 @@ style="width:3.22097in;height:1.68243in" />
 
 <img src="media/image46.png"
 style="width:3.22461in;height:1.44029in" />
+
 
 
