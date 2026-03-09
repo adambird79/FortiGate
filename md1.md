@@ -108,7 +108,7 @@ style="width:5.11812in;height:2.55566in" />
 Change the “Signing Option” from “Sign SAML assertion” to “Sign SAML
 response and assertion” and click “Save”
 
-<img src="//media/image13.png"
+<img src="media/image13.png"
 style="width:4.46588in;height:1.98159in" />
 
 Now download the Certificate (Base64)
