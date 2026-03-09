@@ -12,11 +12,11 @@ Create the Enterprise Application in EntraID, under “Enterpise Apps”
 click “+ New Application” and search for “FortiGate” select the
 “FortiGate SSL VPN”
 
-![image 1](media/image1.png)
+![image 1](./media/image1.png)
 
 Give the App a name
 
-<img src="media/image2.png" width="800" />
+<img src="./media/image2.png" width="800" />
 
 Under “Single sign-on” on the left menu, select “SAML”
 
